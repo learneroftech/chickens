@@ -2,7 +2,7 @@
 
 Welcome to the **Chickens** repository!  
 
-This repository is part of my hands-on practice while taking the [**Git & GitHub Bootcamp**](https://www.udemy.com/course/git-and-github-bootcamp/) by Colt Steele on Udemy.
+This repository is part of my hands-on practice while taking the [**Git & GitHub Bootcamp**](https://www.udemy.com/course/git-and-github-bootcamp/?srsltid=AfmBOooK1npJZx8T1_K7DaJOK0kEsgGulgdc6cmgtW4PIB9jUUEcP6ZI) by Colt Steele on Udemy.
 
 ## 📚 About This Repo
 
@@ -28,7 +28,7 @@ Expect to find simple files like text files and placeholder content, all used to
 
 This practice repo was created while learning from [Colt Steele](https://www.udemy.com/user/coltsteele/)’s excellent Udemy course:
 
-> **The Git & GitHub Bootcamp**  
+> **[The Git & GitHub Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/?srsltid=AfmBOooK1npJZx8T1_K7DaJOK0kEsgGulgdc6cmgtW4PIB9jUUEcP6ZI)**  
 > A comprehensive guide to version control using Git & GitHub.
 
 ---
