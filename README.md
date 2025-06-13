@@ -14,6 +14,12 @@ The purpose of this repo is purely educational — it's a sandbox to apply the G
 - Working with remote repositories
 - GitHub collaboration basics
 
+## 🖥️ Website & Logo
+
+As part of the practice, I created a basic website and hosted it using **GitHub Pages**.  
+The animated logo featured on the site is credited to this CodePen by **Cesar2535**:  
+👉 [Animated Logo on CodePen](https://codepen.io/cesar2535/pen/ByYXpN)
+
 ## 🛠️ What's in Here?
 
 Expect to find simple files like text files and placeholder content, all used to practice:
